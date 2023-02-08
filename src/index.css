@@ -18,7 +18,12 @@ a {
 * {
   box-sizing: border-box;
 }
+
 @font-face {
-  font-family: "burtons";
-  src: url("../public/Burtons.otf");
+  font-family: "Dosis";
+  src: url('https://fonts.googleapis.com/css2?family=Dosis:wght@200&display=swap') format("truetype");
+}
+
+.text-dosis {
+  font-family: "Dosis";
 }
